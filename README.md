@@ -60,5 +60,6 @@ It helps automatically filter out spam messages from genuine messages.
 - Low false positive rate for ham messages
 
 ![image alt](https://github.com/Anish-Das2003/sms-spam-detection-classifier/blob/9a8c3c92f1de0b81073640b610e8c3a8c3c69962/sms%20detection.png)
+![image alt](https://github.com/Anish-Das2003/sms-spam-detection-classifier/blob/7f7b8796b9b5408a1ae07132550e8aaabe15a4a9/sms%20detection1.png)
 ---
 
