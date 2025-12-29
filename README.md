@@ -59,4 +59,6 @@ It helps automatically filter out spam messages from genuine messages.
 - Model performs well on unseen SMS messages
 - Low false positive rate for ham messages
 
+![image alt](https://github.com/Anish-Das2003/sms-spam-detection-classifier/blob/9a8c3c92f1de0b81073640b610e8c3a8c3c69962/sms%20detection.png)
 ---
+
