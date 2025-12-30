@@ -13,7 +13,7 @@ It helps automatically filter out spam messages from genuine messages.
 
 ## 📊 Dataset
 
-- **Source:** https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset  
+- **Source:** https://github.com/Anish-Das2003/sms-spam-detection-classifier/blob/1d632c85fc99da76b6830c73991da580b3d72967/spam.csv  
 - **Columns:**
   - `target` : Label (0 = ham, 1 = spam)
   - `text` : SMS message content
